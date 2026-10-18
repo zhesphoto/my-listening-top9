@@ -1,0 +1,4 @@
+[
+  {"ts":"2026-01-02T00:00:00Z","ms_played":60000,"spotify_track_uri":"spotify:track:test1","master_metadata_album_album_name":"TEST FIXTURE A","master_metadata_album_artist_name":"Synthetic test"},
+  {"ts":"2026-01-03T00:00:00Z","ms_played":120000,"spotify_track_uri":"spotify:track:test2","master_metadata_album_album_name":"TEST FIXTURE B","master_metadata_album_artist_name":"Synthetic test"}
+]
